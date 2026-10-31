@@ -1,0 +1,117 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,71.2833,C
+28,0,1,"Fortune, Mr. Charles Alexander",male,19,3,2,19950,263,S
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,35,1,0,PC 17569,146.5208,C
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28,1,0,PC 17604,82.1708,C
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,76.7292,C
+62,1,1,"Icard, Miss. Amelie",female,38,0,0,113572,80,S
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,83.475,S
+73,0,2,"Hood, Mr. Ambrose Jr",male,21,0,0,S.O.C. 14879,73.5,S
+89,1,1,"Fortune, Miss. Mabel Helen",female,23,3,2,19950,263,S
+103,0,1,"White, Mr. Richard Frasar",male,21,0,1,35281,77.2875,S
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24,0,1,PC 17558,247.5208,C
+121,0,2,"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,73.5,S
+125,0,1,"White, Mr. Percival Wayland",male,54,0,1,35281,77.2875,S
+140,0,1,"Giglio, Mr. Victor",male,24,0,0,PC 17593,79.2,C
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,S
+160,0,3,"Sage, Master. Thomas Henry",male,25,8,2,CA. 2343,69.55,S
+181,0,3,"Sage, Miss. Constance Gladys",female,21.5,8,2,CA. 2343,69.55,S
+196,1,1,"Lurette, Miss. Elise",female,58,0,0,PC 17569,146.5208,C
+202,0,3,"Sage, Mr. Frederick",male,25,8,2,CA. 2343,69.55,S
+216,1,1,"Newell, Miss. Madeleine",female,31,1,0,35273,113.275,C
+219,1,1,"Bazzani, Miss. Albina",female,32,0,0,11813,76.2917,C
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,90,S
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,36973,83.475,S
+246,0,1,"Minahan, Dr. William Edward",male,44,2,0,19928,90,Q
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,35,0,0,PC 17585,79.2,C
+258,1,1,"Cherry, Miss. Gladys",female,30,0,0,110152,86.5,S
+259,1,1,"Ward, Miss. Anna",female,35,0,0,PC 17755,512.3292,C
+263,0,1,"Taussig, Mr. Emil",male,52,1,1,110413,79.65,S
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,153.4625,S
+270,1,1,"Bissette, Miss. Amelia",female,35,0,0,PC 17760,135.6333,S
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,77.9583,S
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,26,0,0,19877,78.85,S
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,91.0792,C
+298,0,1,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,S
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC 17558,247.5208,C
+306,1,1,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,S
+307,1,1,"Fleming, Miss. Margaret",female,35,0,0,17421,110.8833,C
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,108.9,C
+311,1,1,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,83.1583,C
+312,1,1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,262.375,C
+319,1,1,"Wick, Miss. Mary Natalie",female,31,0,2,36928,164.8667,S
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,134.5,C
+325,0,3,"Sage, Mr. George John Jr",male,25,8,2,CA. 2343,69.55,S
+326,1,1,"Young, Miss. Marie Grice",female,36,0,0,PC 17760,135.6333,C
+333,0,1,"Graham, Mr. George Edward",male,38,0,1,PC 17582,153.4625,S
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,35,1,0,PC 17611,133.65,S
+337,0,1,"Pears, Mr. Thomas Clinton",male,29,1,0,113776,66.6,S
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,41,0,0,16966,134.5,C
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,24,3,2,19950,263,S
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110813,75.25,C
+370,1,1,"Aubart, Mme. Leontine Pauline",female,24,0,0,PC 17477,69.3,C
+374,0,1,"Ringhini, Mr. Sante",male,22,0,0,PC 17760,135.6333,C
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,35,1,0,PC 17604,82.1708,C
+378,0,1,"Widener, Mr. Harry Elkins",male,27,0,2,113503,211.5,C
+381,1,1,"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,227.525,C
+386,0,2,"Davies, Mr. Charles Henry",male,18,0,0,S.O.C. 14879,73.5,S
+391,1,1,"Carter, Mr. William Ernest",male,36,1,2,113760,120,S
+394,1,1,"Newell, Miss. Marjorie",female,23,1,0,35273,113.275,C
+413,1,1,"Minahan, Miss. Daisy E",female,33,1,0,19928,90,Q
+436,1,1,"Carter, Miss. Lucile Polk",female,14,1,2,113760,120,S
+439,0,1,"Fortune, Mr. Mark",male,64,1,4,19950,263,S
+446,1,1,"Dodge, Master. Washington",male,4,0,2,33638,81.8583,S
+454,1,1,"Goldenberg, Mr. Samuel L",male,49,1,0,17453,89.1042,C
+485,1,1,"Bishop, Mr. Dickinson H",male,25,1,0,11967,91.0792,C
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,0,19943,90,S
+497,1,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,78.2667,C
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113781,151.55,S
+505,1,1,"Maioni, Miss. Roberta",female,16,0,0,110152,86.5,S
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC 17758,108.9,C
+521,1,1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,S
+528,0,1,"Farthing, Mr. John",male,40,0,0,PC 17483,221.7792,S
+538,1,1,"LeRoy, Miss. Bertha",female,30,0,0,PC 17761,106.425,C
+541,1,1,"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,71,S
+545,0,1,"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,106.425,C
+551,1,1,"Thayer, Mr. John Borland Jr",male,17,0,2,17421,110.8833,C
+558,0,1,"Robbins, Mr. Victor",male,40,0,0,PC 17757,227.525,C
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110413,79.65,S
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,17421,110.8833,C
+586,1,1,"Taussig, Miss. Ruth",female,18,0,2,110413,79.65,S
+588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60,1,1,13567,79.2,C
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,36947,78.2667,C
+610,1,1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.4625,S
+628,1,1,"Longley, Miss. Gretchen Fiske",female,21,0,0,13502,77.9583,S
+642,1,1,"Sagesser, Mlle. Emma",female,24,0,0,PC 17477,69.3,C
+646,1,1,"Harper, Mr. Henry Sleeper",male,48,1,0,PC 17572,76.7292,C
+656,0,2,"Hickman, Mr. Leonard Mark",male,24,2,0,S.O.C. 14879,73.5,S
+660,0,1,"Newell, Mr. Arthur Webster",male,58,0,2,35273,113.275,C
+661,1,1,"Frauenthal, Dr. Henry William",male,50,2,0,PC 17611,133.65,S
+666,0,2,"Hickman, Mr. Lewis",male,32,2,0,S.O.C. 14879,73.5,S
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC 17755,512.3292,C
+682,1,1,"Hassab, Mr. Hammad",male,27,0,0,PC 17572,76.7292,C
+690,1,1,"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,211.3375,S
+699,0,1,"Thayer, Mr. John Borland",male,49,1,1,17421,110.8833,C
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,227.525,C
+709,1,1,"Cleaver, Miss. Alice",female,22,0,0,113781,151.55,S
+717,1,1,"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,227.525,C
+731,1,1,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,S
+738,1,1,"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,512.3292,C
+742,0,1,"Cavendish, Mr. Tyrell William",male,36,1,0,19877,78.85,S
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,2,2,PC 17608,262.375,C
+746,0,1,"Crosby, Capt. Edward Gifford",male,70,1,1,WE/P 5735,71,S
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110152,86.5,S
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,1,2,113760,120,S
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,13502,77.9583,S
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,24160,211.3375,S
+790,0,1,"Guggenheim, Mr. Benjamin",male,46,0,0,PC 17593,79.2,C
+793,0,3,"Sage, Miss. Stella Anna",female,21.5,8,2,CA. 2343,69.55,S
+803,1,1,"Carter, Master. William Thornton II",male,11,1,2,113760,120,S
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,12749,93.5,S
+830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113572,80,S
+836,1,1,"Compton, Miss. Sara Rebecca",female,39,1,1,PC 17756,83.1583,C
+847,0,3,"Sage, Mr. Douglas Bullen",male,25,8,2,CA. 2343,69.55,S
+850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,35,1,0,17453,89.1042,C
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,1,1,36928,164.8667,S
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,21.5,8,2,CA. 2343,69.55,S
+880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,83.1583,C
